@@ -6,6 +6,7 @@ const App = () => {
     <div>
       <h1>This is react application</h1>
       <Child/>
+      
     </div>
   )
 }
